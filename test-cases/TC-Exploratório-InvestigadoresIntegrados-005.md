@@ -27,11 +27,12 @@ Explorar a pesquisa de investigadores e a paginação; observar comportamento co
 - Imagens de perfil em falta reduzem a credibilidade do portal e prejudicam a apresentação profissional dos investigadores.
 
 **Evidências:**  
-- `../evidence/PesquisaComResultado.png`  
-- `../evidence/ImagemEmFalta.png`
-- `../evidence/InvestigadorNaoEncontrado.png`
-- `../evidence/Pag1.png`
-- `../evidence/Pag4.png`
+-![PesquisaRes](../evidence/PesquisaComResultado.png)
+-![Falta](../evidence/ImagemEmFalta.png)
+-![Falta](../evidence/InvestigadorNaoEncontrado.png)
+-![Falta](../evidence/Pag1.png)
+-![Falta](../evidence/Pag2.png)
+
 
 **Follow-ups:**  
 - Criar BUG-INV-001 (Falta de mensagem “Sem resultados”)
