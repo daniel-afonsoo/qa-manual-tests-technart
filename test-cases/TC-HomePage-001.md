@@ -17,3 +17,10 @@
   
 **Evidência:**  
 - ![Homepage](../evidence/HomePage.png)
+
+**Data da execução:**  
+- 05/09/2025  
+
+**Status:**  
+- ✅ Passou  
+
