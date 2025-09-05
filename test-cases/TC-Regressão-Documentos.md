@@ -1,4 +1,4 @@
-# TC-Regressão-Documentos-004 – Validar acesso à página Documentos
+# TC-Regressão-Documentos – Validar acesso à página Documentos
 
 **Categoria:** Teste Funcional (Regressão)  
 
