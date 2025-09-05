@@ -27,7 +27,9 @@ Explorar a pesquisa de investigadores e a paginação; observar comportamento co
 - Imagens de perfil em falta reduzem a credibilidade do portal e prejudicam a apresentação profissional dos investigadores.
 
 **Evidências:**  
-- ![PesquisaRes](../evidence/PesquisaComResultado.png)
+![PesquisaRes](../evidence/PesquisaComResultado.png)
+- Pesquisa pelo termo **Manso** devolve um resultado
+******************************************************
 - ![Falta](../evidence/ImagemEmFalta.png)
 - ![Falta](../evidence/InvestigadorNaoEncontrado.png)
 - ![Falta](../evidence/Pag1.png)
