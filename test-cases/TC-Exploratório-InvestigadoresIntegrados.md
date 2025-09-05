@@ -15,9 +15,8 @@ Explorar a pesquisa de investigadores e a paginação; observar comportamento co
 
 **Tempo sugerido:** 5 min
 
-
-
-
+**Data da Sessão:**  
+- 05/09/2025
 
 
 **Ideias de Teste:**  
