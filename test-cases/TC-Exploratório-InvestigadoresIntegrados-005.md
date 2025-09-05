@@ -34,13 +34,13 @@ Explorar a pesquisa de investigadores e a paginação; observar comportamento co
 - Ícone de imagem não carregada associada à investigadora Carla Ravasco
 ******************************************************
 ![Falta](../evidence/InvestigadorNaoEncontrado.png)
--Pesquisa pelo nome Louis que se revelou inexistente
+- Pesquisa pelo nome Louis que se revelou inexistente
 ******************************************************
 ![Falta](../evidence/Pag1.png)
--Página 1 referente à paginação
+- Página 1 referente à paginação
 ******************************************************
 ![Falta](../evidence/Pag4.png)
--Página 4 referente à paginação
+- Página 4 referente à paginação
 
 **Follow-ups:**  
 - Criar BUG-INV-001 (Falta de mensagem “Sem resultados”)
