@@ -1,4 +1,4 @@
-# TC-HomePage-001 – Validar abertura da homepage
+# TC-HomePage – Validar abertura da homepage
 
 **Categoria:** Teste Funcional (Smoke Test)
 
