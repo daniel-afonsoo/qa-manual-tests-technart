@@ -28,13 +28,19 @@ Explorar a pesquisa de investigadores e a paginação; observar comportamento co
 
 **Evidências:**  
 ![PesquisaRes](../evidence/PesquisaComResultado.png)
-- Pesquisa pelo termo **Manso** devolve um resultado
+- Pesquisa pelo termo parcial **Manso** devolve um resultado
 ******************************************************
-- ![Falta](../evidence/ImagemEmFalta.png)
-- ![Falta](../evidence/InvestigadorNaoEncontrado.png)
-- ![Falta](../evidence/Pag1.png)
-- ![Falta](../evidence/Pag4.png)
-
+![Falta](../evidence/ImagemEmFalta.png)
+- Ícone de imagem não carregada associada à investigadora Carla Ravasco
+******************************************************
+![Falta](../evidence/InvestigadorNaoEncontrado.png)
+-Pesquisa pelo nome Louis que se revelou inexistente
+******************************************************
+![Falta](../evidence/Pag1.png)
+-Página 1 referente à paginação
+******************************************************
+![Falta](../evidence/Pag4.png)
+-Página 4 referente à paginação
 
 **Follow-ups:**  
 - Criar BUG-INV-001 (Falta de mensagem “Sem resultados”)
