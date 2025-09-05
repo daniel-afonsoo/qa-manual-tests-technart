@@ -1,4 +1,4 @@
-# TC-Investigador-003 – Validar pesquisa de Investigador Integrado
+# TC-Investigador – Validar pesquisa de Investigador Integrado
 
 **Categoria:** Teste Funcional (Fluxo de Utilizador)  
 
