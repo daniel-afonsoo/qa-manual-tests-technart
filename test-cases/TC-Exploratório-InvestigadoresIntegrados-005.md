@@ -10,7 +10,7 @@ Explorar a pesquisa de investigadores e a paginação; observar comportamento co
 
 **Tempo sugerido:** 5 min
 
-** Ideias de Teste:**  
+**Ideias de Teste:**  
 - Termos parciais 
 - Termos inexistentes
 - Navegação entre páginas (p.ex. 1 ↔ 4)
