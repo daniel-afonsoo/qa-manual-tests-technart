@@ -4,7 +4,7 @@
 **Objetivo:**  
 Explorar a pesquisa de investigadores e a paginação; observar comportamento com termos válidos e inválidos.
 
-##################################
+###
 **Scope:**  
 - Página “Equipa” → “Integrados”
 - Campo de pesquisa
