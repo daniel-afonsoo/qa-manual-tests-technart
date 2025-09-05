@@ -1,5 +1,7 @@
 # TC-HomePage-001 – Validar abertura da homepage
 
+**Categoria:** Teste Funcional (Smoke Test)
+
 **Pré-condições:**  
 - O utilizador tem acesso a um browser (Chrome) com ligação à internet.  
 
