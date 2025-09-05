@@ -18,7 +18,7 @@
 - O critério esperado (contém "tecnart/") foi cumprido.
   
 **Evidência:**  
-- ![Homepage](../evidence/HomePage.png)
+![Homepage](../evidence/HomePage.png)
 
 **Data da execução:**  
 - 05/09/2025  
