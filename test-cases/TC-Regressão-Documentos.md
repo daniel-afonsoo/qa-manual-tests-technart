@@ -33,7 +33,7 @@
 ---
 
 **Histórico da funcionalidade:**  
-- Anteriormente, o menu apresentava a opção **“Regulamentos”**, que apontava para o ficheiro `Regulamento.pdf`.  
+- Anteriormente, o menu apresentava a opção **“Regulamentos”**.
 - Após atualização do sistema, essa opção foi substituída por **“Documentos”**.  
 
 **Evidência (antes da alteração):**  
